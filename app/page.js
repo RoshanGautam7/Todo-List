@@ -52,7 +52,7 @@ const TodoListPage = () => {
 
   return (
     <>
-      <h1 className='bg-black text-white p-5 text-5xl font-bold text-center'>Roshan's Todo List</h1>
+      <h1 className='bg-black text-white p-5 text-5xl font-bold text-center'>Kali Todo List</h1>
       <form onSubmit={submitHandler}>
         <input
           type='text'
